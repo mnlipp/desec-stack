@@ -15,7 +15,7 @@ Besides certbot, there are other ACME clients that support deSEC out of the box.
 We currently know of the following:
 
 - `acme.sh <https://github.com/Neilpang/acme.sh/wiki/dnsapi#71-use-desecio>`_
-- `cert-manager web hook <https://github.com/kmorning/cert-manager-webhook-desec>`_
+- `cert-manager web hook <https://github.com/irreleph4nt/cert-manager-webhook-desec-http>`_
   (Kubernetes)
 - `lego <https://github.com/go-acme/lego>`_
 - `Posh-ACME <https://github.com/rmbolger/Posh-ACME/blob/main/Posh-ACME/Plugins/DeSEC-Readme.md>`_
